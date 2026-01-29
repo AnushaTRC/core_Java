@@ -8,7 +8,7 @@ public class MainClass {
 
        sub.show();
        System.out.println("After updating data using setters");
-       sub.setPolicyNumber("Poli1234");
+       sub.setPolicyNumber("Poli1234567");
        sub.show();
        System.out.println(sub.getPolicyHolderName());
 
